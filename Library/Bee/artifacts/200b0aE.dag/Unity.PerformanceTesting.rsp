@@ -128,7 +128,7 @@
 -define:ENABLE_TERRAIN
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
--define:ENABLE_INPUT_SYSTEM
+-define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER
 -define:TEXTCORE_FONT_ENGINE_1_6_OR_NEWER
@@ -399,6 +399,11 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.3.6f1/Unity.app/Contents/Resources/BuildPipeline/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.3.6f1/Unity.app/Contents/Resources/BuildPipeline/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.3.6f1/Unity.app/Contents/Resources/BuildPipeline/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+-analyzer:"Assets/MobileDependencyResolver/Editor/1.2.185/Google.IOSResolver.dll"
+-analyzer:"Assets/MobileDependencyResolver/Editor/1.2.185/Google.JarResolver.dll"
+-analyzer:"Assets/MobileDependencyResolver/Editor/1.2.185/Google.PackageManagerResolver.dll"
+-analyzer:"Assets/MobileDependencyResolver/Editor/1.2.185/Google.VersionHandlerImpl.dll"
+-analyzer:"Assets/MobileDependencyResolver/Editor/Google.VersionHandler.dll"
 "Library/PackageCache/com.unity.collections@aea9d3bd5e19/Unity.Collections.PerformanceTests.Internal/AssemblyInfo.cs"
 "Library/PackageCache/com.unity.test-framework.performance@0840f58e4562/Runtime/AssemblyInfo.cs"
 "Library/PackageCache/com.unity.test-framework.performance@0840f58e4562/Runtime/Attributes/PerformanceAttribute.cs"

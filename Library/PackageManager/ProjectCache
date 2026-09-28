@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639261152430000000
-    m_Hash: 2765765094
+      ticks: 639262207210000000
+    m_Hash: 4043613804
   m_LockFileStatus:
     m_FilePath: /Users/ryders/Desktop/Project-2/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639261152500000000
-    m_Hash: 3478389788
+      ticks: 639262207210000000
+    m_Hash: 1809257459
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,370 @@ m_LocalPackages:
 m_ProjectPath: /Users/ryders/Desktop/Project-2/Packages
 m_EditorVersion: 6000.3.6f1 (bbb010bdb8a3)
 m_ResolvedPackages:
+- packageId: com.unity.2d.sprite@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.2d.sprite@82f01c8c75ca
+  assetPath: Packages/com.unity.2d.sprite
+  name: com.unity.2d.sprite
+  displayName: 2D Sprite
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: Use Unity Sprite Editor Window to create and edit Sprite asset properties
+    like pivot, borders and Physics shape
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - sprite
+  - sprite editor window
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  signature:
+    status: 0
+    reason: 
+    attestation:
+      format: 
+      publishingChannel: 
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 82f01c8c75ca2d707990e8dc249b71ab7d1aa33e
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 1.0.0
+    minimumUnityVersion: 2019.2
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.2d.tilemap@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.2d.tilemap@2428aeee2f73
+  assetPath: Packages/com.unity.2d.tilemap
+  name: com.unity.2d.tilemap
+  displayName: 2D Tilemap Editor
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: 2D Tilemap Editor is a package that contains editor functionalities
+    for editing Tilemaps.
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.hierarchycore
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  keywords:
+  - 2d
+  - Tilemap
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  signature:
+    status: 0
+    reason: 
+    attestation:
+      format: 
+      publishingChannel: 
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 2428aeee2f739ba27e841f87bdc993170fe923b9
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 1.0.0
+    minimumUnityVersion: 2019.2
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.ads@4.16.4
+  testable: 0
+  isDirectDependency: 1
+  version: 4.16.4
+  source: 1
+  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.ads@e89225828059
+  assetPath: Packages/com.unity.ads
+  name: com.unity.ads
+  displayName: Advertisement Legacy
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: "Connect your game to the Unity Ads Network for iOS and Android to
+    quickly and effectively monetize your games.\n\nNOTE: Unity has joined forces
+    with ironSource and recommends using Unity LevelPlay for ad mediation (instead
+    of this package). \n\nThis package will still be supported but no longer updated.
+    To install Unity LevelPlay, use the Ads Mediation package (available below) or
+    the LevelPlay plugin-in at https://developers.is.com/ironsource-mobile/unity/unity-plugin/.\n\nSupported
+    platforms:\n- Android\n- iOS\n"
+  errors: []
+  versions:
+    all:
+    - 0.0.3
+    - 0.0.4
+    - 0.0.5
+    - 0.0.6
+    - 0.0.7
+    - 0.0.8
+    - 0.0.10
+    - 0.0.11
+    - 0.0.12
+    - 0.0.13
+    - 0.0.14
+    - 0.0.15
+    - 0.0.16
+    - 2.0.0
+    - 2.0.3
+    - 2.0.4
+    - 2.0.7
+    - 2.0.8
+    - 2.3.1
+    - 2.3.2
+    - 3.0.1
+    - 3.0.2
+    - 3.0.3
+    - 3.1.1
+    - 3.2.0
+    - 3.3.0
+    - 3.3.1
+    - 3.4.0
+    - 3.4.1
+    - 3.4.2
+    - 3.4.4
+    - 3.4.5
+    - 3.4.7
+    - 3.4.9
+    - 3.5.0
+    - 3.5.2
+    - 3.6.1
+    - 3.7.0
+    - 3.7.1
+    - 3.7.3
+    - 3.7.5
+    - 4.0.0
+    - 4.0.1
+    - 4.1.0
+    - 4.2.1
+    - 4.3.0
+    - 4.4.1
+    - 4.4.2
+    - 4.4.3
+    - 4.12.0
+    - 4.16.3
+    - 4.16.4
+    - 4.17.0
+    - 4.19.0
+    compatible:
+    - 4.16.4
+    - 4.17.0
+    - 4.19.0
+    recommended: 4.19.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.ugui
+    version: 2.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  keywords:
+  - ads
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638991750930240000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.ads@4.16/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/unity-ads-sdk.git
+    revision: 0d444ff6e757e3ab9c63fb91dd158bea21891833
+    path: 
+  unityLifecycle:
+    version: 4.16.4
+    nextVersion: 
+    recommendedVersion: 4.19.0
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"Fixed an issue that might prevent banners from refreshing
+    correctly in projects using Unity Editor 6.0 or newer","gameService":{"groupName":"Monetization","groupIndex":4,"configurePath":"Project/Services/Ads","genericDashboardUrl":"https://unityads.unity3d.com/help/index","projectDashboardUrl":"https://dashboard.unity3d.com/organizations/{0}/projects/{1}/monetization/about","projectDashboardUrlType":"OrganizationKeyAndProjectGuid"}}'
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: e8922582805922405e97351c15d313c7a56f561d
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 4.16.4
+    minimumUnityVersion: 2021.3
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
 - packageId: com.unity.ai.navigation@2.0.9
   testable: 0
   isDirectDependency: 1
@@ -172,6 +536,156 @@ m_ResolvedPackages:
     compatibilityLevel: 0
     minimumPackageVersion: 2.0.9
     minimumUnityVersion: 6000.0
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.analytics@3.8.2
+  testable: 0
+  isDirectDependency: 1
+  version: 3.8.2
+  source: 1
+  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.analytics@c9d14a6bdec6
+  assetPath: Packages/com.unity.analytics
+  name: com.unity.analytics
+  displayName: Analytics Library
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Unity Analytics Library contains the Analytics Event Tracker component,
+    the Data Privacy plug-in, and the Standard Events API.
+  errors: []
+  versions:
+    all:
+    - 0.0.3
+    - 0.0.4
+    - 0.0.5
+    - 0.0.7
+    - 0.0.8
+    - 0.0.9
+    - 0.0.10
+    - 0.0.11
+    - 0.0.12
+    - 0.0.13
+    - 0.0.14
+    - 0.0.15
+    - 0.0.16
+    - 0.0.17
+    - 0.0.19
+    - 2.0.5
+    - 2.0.11
+    - 2.0.13
+    - 2.0.14
+    - 2.0.15
+    - 2.0.16
+    - 3.0.5
+    - 3.0.9
+    - 3.1.1
+    - 3.2.0
+    - 3.2.2
+    - 3.2.3
+    - 3.3.0
+    - 3.3.2-preview
+    - 3.3.2
+    - 3.3.4
+    - 3.3.5
+    - 3.4.0
+    - 3.5.3
+    - 3.6.11
+    - 3.6.12
+    - 3.7.1
+    - 3.8.1
+    - 3.8.2
+    compatible:
+    - 3.8.2
+    recommended: 3.8.2
+    deprecated: []
+  dependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.services.analytics
+    version: 1.0.4
+  resolvedDependencies:
+  - name: com.unity.ugui
+    version: 2.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.services.analytics
+    version: 6.2.0
+  - name: com.unity.services.core
+    version: 1.16.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.2
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - analytics
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638971744759330000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.analytics.git
+    revision: 5ed31de2d0dd150fe8c907e98fc467da73b4b978
+    path: 
+  unityLifecycle:
+    version: 3.8.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 0
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: c9d14a6bdec6bc414ff1cab77dd82647a9fa1334
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 3.8.2
+    minimumUnityVersion: 2019.3
   compliance:
     status: 0
     violation:
@@ -676,189 +1190,6 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.inputsystem@1.18.0
-  testable: 0
-  isDirectDependency: 1
-  version: 1.18.0
-  source: 1
-  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.inputsystem@57d0e36f6123
-  assetPath: Packages/com.unity.inputsystem
-  name: com.unity.inputsystem
-  displayName: Input System
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: A new input system which can be used as a more extensible and customizable
-    alternative to Unity's classic input system in UnityEngine.Input.
-  errors: []
-  versions:
-    all:
-    - 0.1.2-preview
-    - 0.2.0-preview
-    - 0.2.1-preview
-    - 0.2.6-preview
-    - 0.2.8-preview
-    - 0.2.10-preview
-    - 0.9.0-preview
-    - 0.9.1-preview
-    - 0.9.2-preview
-    - 0.9.3-preview
-    - 0.9.4-preview
-    - 0.9.5-preview
-    - 0.9.6-preview
-    - 1.0.0-preview
-    - 1.0.0-preview.1
-    - 1.0.0-preview.2
-    - 1.0.0-preview.3
-    - 1.0.0-preview.4
-    - 1.0.0-preview.5
-    - 1.0.0-preview.6
-    - 1.0.0-preview.7
-    - 1.0.0
-    - 1.0.1
-    - 1.0.2
-    - 1.1.0-pre.5
-    - 1.1.0-pre.6
-    - 1.1.0-preview.1
-    - 1.1.0-preview.2
-    - 1.1.0-preview.3
-    - 1.1.1
-    - 1.2.0
-    - 1.3.0
-    - 1.4.1
-    - 1.4.2
-    - 1.4.3
-    - 1.4.4
-    - 1.5.0
-    - 1.5.1
-    - 1.6.1
-    - 1.6.3
-    - 1.7.0
-    - 1.8.0-pre.1
-    - 1.8.0-pre.2
-    - 1.8.0
-    - 1.8.1
-    - 1.8.2
-    - 1.9.0
-    - 1.10.0
-    - 1.11.0
-    - 1.11.1
-    - 1.11.2
-    - 1.12.0
-    - 1.13.0
-    - 1.13.1
-    - 1.14.0
-    - 1.14.1
-    - 1.14.2
-    - 1.15.0
-    - 1.16.0
-    - 1.17.0
-    - 1.18.0
-    - 1.19.0
-    - 1.20.0
-    compatible:
-    - 1.18.0
-    - 1.19.0
-    - 1.20.0
-    recommended: 1.18.0
-    deprecated: []
-  dependencies:
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.hierarchycore
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  keywords:
-  - input
-  - events
-  - keyboard
-  - mouse
-  - gamepad
-  - touch
-  - vr
-  - xr
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 639039807602510000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.18/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.com/Unity-Technologies/InputSystem.git
-    revision: c0d61169c3ccce912ce6a8dec13a30e6e35fdeb8
-    path: 
-  unityLifecycle:
-    version: 1.18.0
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-    isDiscoverable: 1
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"### Changed\n\n- Updated documentation to reflect that
-    the OnMouse MonoBehaviour events are now supported in Unity 6.4 and above.\n-
-    Updated the supported devices documentation to clarify that touchscreens are
-    supported on Linux.\n- Updated documentation to reflect PS5 controller support
-    on Linux.\n\n### Fixed\n\n- Fixed add buttons use add icon in input actions window
-    (ISX-2340)\n- Fixed warnings being generated on Unity 6.4 and 6.5. (ISX-2395).\n-
-    Fixed extra empty lines being displayed in the control binding list when mouse
-    buttons are pressed [ISXB-1677](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-1677)\n-
-    Fixed InputActionReference not being set when attempting to set it on a Prefab
-    or ScriptableObject [ISXB-1787](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-1787)"}'
-  signature:
-    status: 1
-    reason: Signature is ok
-    attestation:
-      format: archive
-      publishingChannel: unity
-      entitlementKeys: []
-      ownerOrgName: 
-      ownerOrgId: 
-      publisherName: 
-    errorCode: 
-  assetStore:
-    productId: 
-  fingerprint: 57d0e36f61231bc5a2579f37d81bf6fa02f40adc
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 1.18.0
-    minimumUnityVersion: 2022.3
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
 - packageId: com.unity.multiplayer.center@1.0.1
   testable: 0
   isDirectDependency: 1
@@ -966,41 +1297,111 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.render-pipelines.universal@17.3.0
+- packageId: com.unity.probuilder@6.0.9
   testable: 0
   isDirectDependency: 1
-  version: 17.3.0
-  source: 2
-  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.render-pipelines.universal@1e87cf1dccb8
-  assetPath: Packages/com.unity.render-pipelines.universal
-  name: com.unity.render-pipelines.universal
-  displayName: Universal Render Pipeline
+  version: 6.0.9
+  source: 1
+  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.probuilder@1f279ab829b7
+  assetPath: Packages/com.unity.probuilder
+  name: com.unity.probuilder
+  displayName: ProBuilder
   author:
     name: 
     email: 
     url: 
   category: 
   type: 
-  description: The Universal Render Pipeline (URP) is a prebuilt Scriptable Render
-    Pipeline, made by Unity. URP provides artist-friendly workflows that let you
-    quickly and easily create optimized graphics across a range of platforms, from
-    mobile to high-end consoles and PCs.
+  description: 'Build, edit, and texture custom geometry in Unity. Use ProBuilder
+    for in-scene level design, prototyping, collision meshes, all with on-the-fly
+    play-testing.
+
+
+    Advanced features include UV editing, vertex colors, parametric
+    shapes, and texture blending. With ProBuilder''s model export feature it''s easy
+    to tweak your levels in any external 3D modelling suite.'
   errors: []
   versions:
     all:
-    - 17.3.0
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 3.0.3
+    - 3.0.6
+    - 3.0.8
+    - 3.0.9
+    - 3.10.1
+    - 4.0.2
+    - 4.0.3
+    - 4.0.4
+    - 4.0.5
+    - 4.1.0
+    - 4.1.2
+    - 4.2.1
+    - 4.2.2-preview.1
+    - 4.2.2-preview.2
+    - 4.2.3
+    - 4.2.4-preview.0
+    - 4.3.0-preview.0
+    - 4.3.0-preview.1
+    - 4.3.0-preview.2
+    - 4.3.0-preview.4
+    - 4.3.0-preview.6
+    - 4.3.0-preview.7
+    - 4.3.0-preview.8
+    - 4.3.0-preview.9
+    - 4.3.1
+    - 4.4.0-preview.1
+    - 4.4.0
+    - 4.5.0
+    - 4.5.2
+    - 5.0.0-pre.7
+    - 5.0.0-pre.10
+    - 5.0.1
+    - 5.0.3
+    - 5.0.4
+    - 5.0.6
+    - 5.0.7
+    - 5.1.0
+    - 5.1.1
+    - 5.2.0
+    - 5.2.2
+    - 5.2.3
+    - 5.2.4
+    - 6.0.1-pre.1
+    - 6.0.1-pre.2
+    - 6.0.1
+    - 6.0.2
+    - 6.0.3
+    - 6.0.4
+    - 6.0.5
+    - 6.0.6
+    - 6.0.7
+    - 6.0.8
+    - 6.0.9
+    - 6.1.0
+    - 6.1.1
+    - 6.1.2
     compatible:
-    - 17.3.0
-    recommended: 17.3.0
+    - 6.0.8
+    - 6.0.9
+    - 6.1.0
+    - 6.1.1
+    - 6.1.2
+    recommended: 6.0.9
     deprecated: []
   dependencies:
-  - name: com.unity.render-pipelines.core
-    version: 17.3.0
+  - name: com.unity.shadergraph
+    version: 17.0.3
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 1.0.3
+  resolvedDependencies:
   - name: com.unity.shadergraph
     version: 17.3.0
-  - name: com.unity.render-pipelines.universal-config
-    version: 17.0.3
-  resolvedDependencies:
   - name: com.unity.render-pipelines.core
     version: 17.3.0
   - name: com.unity.burst
@@ -1029,19 +1430,31 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.terrain
     version: 1.0.0
-  - name: com.unity.shadergraph
-    version: 17.3.0
   - name: com.unity.searcher
     version: 4.9.4
-  - name: com.unity.render-pipelines.universal-config
-    version: 17.0.3
+  - name: com.unity.settings-manager
+    version: 2.1.1
   keywords:
-  - graphics
-  - performance
-  - rendering
-  - mobile
-  - render
-  - pipeline
+  - 3d
+  - model
+  - mesh
+  - modeling
+  - geometry
+  - shape
+  - cube
+  - blender
+  - max
+  - maya
+  - fbx
+  - obj
+  - level
+  - design
+  - block
+  - greybox
+  - graybox
+  - whitebox
+  - prototype
+  - probuilder
   registry:
     id: main
     name: 
@@ -1055,18 +1468,18 @@ m_ResolvedPackages:
       violations: []
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
+  datePublishedTicks: 639065257651390000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.probuilder@6.0/manual/index.html
+  hasRepository: 1
   repository:
-    type: 
-    url: 
-    revision: 
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.probuilder.git
+    revision: 2c6613294b715cbc153e6bf7cafd5f98d08344a9
     path: 
   unityLifecycle:
-    version: 17.3.0
+    version: 6.0.8
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -1077,13 +1490,20 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: 
+  upmReserved: '{"changelog":"### Fixed\n\n- [PBLD-276] Fixed a bug where dragging
+    a single face from a connected texture group in the UV Editor caused a visual
+    distortion during the drag operation.\n- [PBLD-279] Fixed an issue where serialization
+    warning would appear upon creating a ProBuilder Shape.\n- [PBLD-284] Fixed InstanceID
+    obsolescence warning appearing on 6000.4 and newer versions.\n- Fixed an issue
+    where a proper unique name wasn''t set on duplicated ProBuilder meshes.\n- [UUM-133756]
+    Fixed the help icon for ProBuilder components pointing to the wrong documentation
+    link. It now points to https://docs.unity3d.com/Packages/com.unity.probuilder@latest."}'
   signature:
-    status: 0
-    reason: 
+    status: 1
+    reason: Signature is ok
     attestation:
-      format: 
-      publishingChannel: 
+      format: archive
+      publishingChannel: unity
       entitlementKeys: []
       ownerOrgName: 
       ownerOrgId: 
@@ -1091,11 +1511,146 @@ m_ResolvedPackages:
     errorCode: 
   assetStore:
     productId: 
-  fingerprint: 1e87cf1dccb843c76f715e529818d2d3a89e78ed
+  fingerprint: 1f279ab829b7ed3bbe362a4beda666724eacffbf
   editorCompatibility:
     compatibilityLevel: 0
-    minimumPackageVersion: 17.3.0
-    minimumUnityVersion: 6000.3
+    minimumPackageVersion: 6.0.8
+    minimumUnityVersion: 6000.0
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.splines@2.8.4
+  testable: 0
+  isDirectDependency: 1
+  version: 2.8.4
+  source: 1
+  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.splines@9b00833aca09
+  assetPath: Packages/com.unity.splines
+  name: com.unity.splines
+  displayName: Splines
+  author:
+    name: 
+    email: 
+    url: 
+  category: Tool
+  type: 
+  description: Work with curves and paths. Use the Splines package to generate objects
+    and behaviors along paths, create trajectories, and draw shapes.
+  errors: []
+  versions:
+    all:
+    - 0.1.0-preview.1
+    - 1.0.0-pre.5
+    - 1.0.0-pre.7
+    - 1.0.0-pre.8
+    - 1.0.0-pre.9
+    - 1.0.0
+    - 1.0.1
+    - 2.0.0-pre.2
+    - 2.0.0-pre.4
+    - 2.0.0
+    - 2.1.0
+    - 2.2.0
+    - 2.2.1
+    - 2.3.0
+    - 2.4.0
+    - 2.5.1
+    - 2.5.2
+    - 2.6.0
+    - 2.6.1
+    - 2.7.1
+    - 2.7.2
+    - 2.8.0
+    - 2.8.1
+    - 2.8.2
+    - 2.8.3
+    - 2.8.4
+    - 2.9.0
+    - 2.9.1
+    compatible:
+    - 2.8.2
+    - 2.8.3
+    - 2.8.4
+    - 2.9.0
+    - 2.9.1
+    recommended: 2.8.4
+    deprecated: []
+  dependencies:
+  - name: com.unity.mathematics
+    version: 1.2.1
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 1.0.3
+  resolvedDependencies:
+  - name: com.unity.mathematics
+    version: 1.3.3
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 2.1.1
+  keywords:
+  - spline
+  - curve
+  - path
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 639087548132780000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.splines@2.8/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.splines.git
+    revision: 94a86d19744f3a919beddc05652abfebaea9dde8
+    path: 
+  unityLifecycle:
+    version: 2.8.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixed\n- Fixed a missing conversion from `InstanceID`
+    to `EntityID` in the `SplineExtrudeUtility` class."}'
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 9b00833aca0985d4922f2ab7d852ca036cd3345c
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 2.8.2
+    minimumUnityVersion: 2022.3
   compliance:
     status: 0
     violation:
@@ -1517,88 +2072,88 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.visualscripting@1.9.9
+- packageId: com.unity.xr.legacyinputhelpers@2.1.13
   testable: 0
   isDirectDependency: 1
-  version: 1.9.9
+  version: 2.1.13
   source: 1
-  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.visualscripting@191c0d7e3b69
-  assetPath: Packages/com.unity.visualscripting
-  name: com.unity.visualscripting
-  displayName: Visual Scripting
+  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.xr.legacyinputhelpers@9535ff2c27ac
+  assetPath: Packages/com.unity.xr.legacyinputhelpers
+  name: com.unity.xr.legacyinputhelpers
+  displayName: XR Legacy Input Helpers
   author:
     name: 
     email: 
     url: 
-  category: 
-  type: tool
-  description: 'Visual scripting is a workflow that uses visual, node-based graphs
-    to design behaviors rather than write lines of C# script.
-
-
-    Enabling artists,
-    designers and programmers alike, visual scripting can be used to design final
-    logic, quickly create prototypes, iterate on gameplay and create custom nodes
-    to help streamline collaboration.
-
-
-    Visual scripting is compatible with third-party
-    APIs, including most packages, assets and custom libraries.'
+  category: XR
+  type: 
+  description: This package includes the tracked pose driver for the legacy input
+    system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
+    Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects to
+    track input devices, the XR Bindings Seeding Tool adds a menu item under the
+    'Assets' menu which populates the Input Asset with Unity's crossplatform Input
+    Bindings
   errors: []
   versions:
     all:
-    - 1.5.0
-    - 1.5.1-pre.3
-    - 1.5.1-pre.5
-    - 1.5.1
-    - 1.5.2
-    - 1.6.0-pre.3
-    - 1.6.0
-    - 1.6.1
-    - 1.7.1
-    - 1.7.2
-    - 1.7.3
-    - 1.7.5
-    - 1.7.6
-    - 1.7.7
-    - 1.7.8
-    - 1.8.0-pre.1
-    - 1.8.0
-    - 1.9.0
-    - 1.9.1
-    - 1.9.2
-    - 1.9.4
-    - 1.9.5
-    - 1.9.6
-    - 1.9.7
-    - 1.9.8
-    - 1.9.9
-    - 1.9.10
-    - 1.9.11
-    - 1.9.12
+    - 1.0.0
+    - 1.0.2
+    - 1.0.3
+    - 1.3.1
+    - 1.3.2
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.3.11
+    - 2.0.1
+    - 2.0.2
+    - 2.0.4
+    - 2.0.6
+    - 2.0.8
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.6
+    - 2.1.7
+    - 2.1.8
+    - 2.1.9
+    - 2.1.10
+    - 2.1.11
+    - 2.1.12
+    - 2.1.13
+    - 3.0.0
+    - 3.0.1
     compatible:
-    - 1.9.9
-    - 1.9.10
-    - 1.9.11
-    - 1.9.12
-    recommended: 1.9.12
-    deprecated:
-    - 1.8.0-pre.1
+    - 2.1.13
+    - 3.0.0
+    - 3.0.1
+    recommended: 2.1.13
+    deprecated: []
   dependencies:
-  - name: com.unity.ugui
+  - name: com.unity.modules.vr
     version: 1.0.0
-  - name: com.unity.modules.jsonserialize
+  - name: com.unity.modules.xr
     version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.ugui
-    version: 2.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
+  - name: com.unity.modules.vr
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  keywords: []
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  keywords:
+  - TPD
+  - Tracked Pose Driver
+  - XR
+  - Input
+  - Helpers
   registry:
     id: main
     name: 
@@ -1614,29 +2169,29 @@ m_ResolvedPackages:
   entitlements:
     licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638965671307960000
-  documentationUrl: 
+  datePublishedTicks: 638971745191110000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.legacyinputhelpers@2.1/manual/index.html
   hasRepository: 1
   repository:
     type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.visualscripting.git
-    revision: 2bb93a09becf00b2343d1c670afbf3836f170f55
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
+    revision: 7750ba101d791f0c673ae87cd654d1ac84f87f24
     path: 
   unityLifecycle:
-    version: 1.9.9
+    version: 2.1.13
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
-    isDiscoverable: 1
+    isDiscoverable: 0
   isDeprecated: 0
   deprecationMessage: 
   git:
     hash: 
     revision: 
-  upmReserved: '{"changelog":"### Fixed\n- Fixed broken links to example codes in
-    API documentation.\n\n### Changed\n- Adds alt texts to images in documentation
-    to increase accessibility for screen readers."}'
+  upmReserved: '{"changelog":"### Fixed\n- Fixed camera projection type when converting
+    an existing camera to an **XR Rig** to ensure resulting camera is not set to
+    orthographic ([XRLIH-5](https://issuetracker.unity3d.com/product/unity/issues/guid/XRLIH-5))."}'
   signature:
     status: 1
     reason: Signature is ok
@@ -1650,11 +2205,11 @@ m_ResolvedPackages:
     errorCode: 
   assetStore:
     productId: 
-  fingerprint: 191c0d7e3b69bc0df1b6fed3a997c4c3a765ef6a
+  fingerprint: 9535ff2c27ac3e8dfb63877c36641a1cc1a48c14
   editorCompatibility:
     compatibilityLevel: 0
-    minimumPackageVersion: 1.9.9
-    minimumUnityVersion: 2021.3
+    minimumPackageVersion: 2.1.13
+    minimumUnityVersion: 2019.4
   compliance:
     status: 0
     violation:
@@ -5093,6 +5648,494 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
+- packageId: com.unity.mathematics@1.3.3
+  testable: 0
+  isDirectDependency: 0
+  version: 1.3.3
+  source: 1
+  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.mathematics@19a9377c4ffa
+  assetPath: Packages/com.unity.mathematics
+  name: com.unity.mathematics
+  displayName: Mathematics
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Unity's C# SIMD math library providing vector types and math functions
+    with a shader like syntax.
+  errors: []
+  versions:
+    all:
+    - 0.0.12-preview.2
+    - 0.0.12-preview.5
+    - 0.0.12-preview.8
+    - 0.0.12-preview.10
+    - 0.0.12-preview.11
+    - 0.0.12-preview.13
+    - 0.0.12-preview.17
+    - 0.0.12-preview.19
+    - 0.0.12-preview.20
+    - 1.0.0-preview.1
+    - 1.0.1
+    - 1.1.0-preview.1
+    - 1.1.0
+    - 1.2.1
+    - 1.2.4
+    - 1.2.5
+    - 1.2.6
+    - 1.3.1
+    - 1.3.2
+    - 1.3.3
+    compatible:
+    - 1.3.3
+    recommended: 1.3.3
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638950052122000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.mathematics@1.3/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/Unity.Mathematics.git
+    revision: 1695a8503482a3131be78cc26308a93f82c05b04
+    path: 
+  unityLifecycle:
+    version: 1.3.3
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixed\n* Fixed `math.hash` crash when using IL2CPP
+    builds on Arm 32 bit devices.\n* Fixed obsolete method usage warnings for `MatrixDrawer.CanCacheInspectorGUI`
+    and `PrimitiveVectorDrawer.CanCacheInspectorGUI` in UNITY_2023_2_OR_NEWER.\n*
+    Updated minimum editor version to 2021.3"}'
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 19a9377c4ffa59370edad3e6a34e4445529badde
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 1.3.3
+    minimumUnityVersion: 2021.3
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.settings-manager@2.1.1
+  testable: 0
+  isDirectDependency: 0
+  version: 2.1.1
+  source: 1
+  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.settings-manager@0b8638c5ce86
+  assetPath: Packages/com.unity.settings-manager
+  name: com.unity.settings-manager
+  displayName: Settings Manager
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: A framework for making any serializable field a setting, complete
+    with a pre-built settings interface.
+  errors: []
+  versions:
+    all:
+    - 0.1.0-preview.4
+    - 0.1.0-preview.8
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.0.3
+    - 2.0.0
+    - 2.0.1
+    - 2.1.0
+    - 2.1.1
+    compatible:
+    - 2.1.1
+    recommended: 2.1.1
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638956174685890000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.settings-manager@2.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.settings-manager.git
+    revision: 6eb5ed85eaf3276cc09f0cc4fc3311c72f0fc196
+    path: 
+  unityLifecycle:
+    version: 2.1.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 0
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Changes\n\n- Enable Auto Reference on main assembly.\n\n###
+    Bug Fixes\n\n- [case: PBLD-56] Added tooltip to \"Options\" gear icon to specify
+    that context menu items are relevant only to the selected category."}'
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 0b8638c5ce86009d785da17b17aaf629047f64ce
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 2.1.1
+    minimumUnityVersion: 2022.3
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.shadergraph@17.3.0
+  testable: 0
+  isDirectDependency: 0
+  version: 17.3.0
+  source: 2
+  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.shadergraph@3e48e962d639
+  assetPath: Packages/com.unity.shadergraph
+  name: com.unity.shadergraph
+  displayName: Shader Graph
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Shader Graph package adds a visual Shader editing tool to Unity.
+    You can use this tool to create Shaders in a visual way instead of writing code.
+    Specific render pipelines can implement specific graph features. Currently, both
+    the High Definition Rendering Pipeline and the Universal Rendering Pipeline support
+    Shader Graph.
+  errors: []
+  versions:
+    all:
+    - 17.3.0
+    compatible:
+    - 17.3.0
+    recommended: 17.3.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.render-pipelines.core
+    version: 17.3.0
+  - name: com.unity.searcher
+    version: 4.9.3
+  resolvedDependencies:
+  - name: com.unity.render-pipelines.core
+    version: 17.3.0
+  - name: com.unity.burst
+    version: 1.8.27
+  - name: com.unity.mathematics
+    version: 1.3.3
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.ugui
+    version: 2.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.collections
+    version: 2.6.2
+  - name: com.unity.test-framework
+    version: 1.6.0
+  - name: com.unity.ext.nunit
+    version: 2.0.5
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.6
+  - name: com.unity.test-framework.performance
+    version: 3.2.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.terrain
+    version: 1.0.0
+  - name: com.unity.searcher
+    version: 4.9.4
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 17.3.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  signature:
+    status: 0
+    reason: 
+    attestation:
+      format: 
+      publishingChannel: 
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 3e48e962d639f56abc22572e0b70ba873b07bbd9
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 17.3.0
+    minimumUnityVersion: 6000.3
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.services.analytics@6.2.0
+  testable: 0
+  isDirectDependency: 0
+  version: 6.2.0
+  source: 1
+  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.services.analytics@b6335889ba61
+  assetPath: Packages/com.unity.services.analytics
+  name: com.unity.services.analytics
+  displayName: Analytics
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Unity Analytics package automatically collects core events and
+    user properties when someone uses your game or application, and enables you to
+    track specific in-game actions your user performs by defining custom events.
+    The data collected from this package is surfaced in the Unity dashboard where
+    you can use it to gather user insights, segment your player base and make informed
+    decisions around the optimization of your game.
+  errors: []
+  versions:
+    all:
+    - 1.0.3
+    - 1.0.4
+    - 1.0.5
+    - 2.0.7-pre.4
+    - 2.0.7-pre.6
+    - 2.0.7-pre.7
+    - 3.0.0-pre.2
+    - 3.0.0-pre.3
+    - 3.0.0-pre.4
+    - 4.0.0-pre.2
+    - 4.0.0-pre.3
+    - 4.0.0
+    - 4.0.1
+    - 4.1.0
+    - 4.2.0
+    - 4.3.0
+    - 4.4.0
+    - 4.4.1
+    - 4.4.2
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
+    - 5.1.0
+    - 5.1.1
+    - 6.0.1
+    - 6.0.2
+    - 6.0.3
+    - 6.1.0
+    - 6.1.1
+    - 6.2.0
+    - 6.2.1
+    - 6.2.2
+    - 6.3.0
+    compatible:
+    - 6.2.0
+    - 6.2.1
+    - 6.2.2
+    - 6.3.0
+    recommended: 6.3.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.services.core
+    version: 1.12.4
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.ugui
+    version: 2.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.services.core
+    version: 1.16.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.2
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 639004413792670000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.analytics@6.2/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: 969c71f9880dd4e808d2ea45abf794b4a66fce6e
+    path: 
+  unityLifecycle:
+    version: 6.2.0
+    nextVersion: 
+    recommendedVersion: 6.3.0
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Added\n\n* Support for TIMESTAMP (C# DateTime)
+    event parameters\n\n### Fixed\n\n* Debug Panel JSON display no longer introduces
+    erroneous spaces after colons inside strings\n\n### Breaking Changes\n\n* The
+    minimum supported editor version for the UGS Analytics SDK is now 2022.3","gameService":{"configurePath":"Project/Services/Analytics
+    - Gaming Services","genericDashboardUrl":"https://cloud.unity.com/analytics","projectDashboardUrl":"https://cloud.unity.com/home/organizations/{0}/projects/{1}/environments/default/analytics/v2/about","projectDashboardUrlType":"OrganizationKeyAndProjectGuid"}}'
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: b6335889ba612cb6b1017ce6c083f8b9678f8e9a
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 6.2.0
+    minimumUnityVersion: 2022.3
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
 - packageId: com.unity.render-pipelines.core@17.3.0
   testable: 0
   isDirectDependency: 0
@@ -5226,248 +6269,6 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.shadergraph@17.3.0
-  testable: 0
-  isDirectDependency: 0
-  version: 17.3.0
-  source: 2
-  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.shadergraph@3e48e962d639
-  assetPath: Packages/com.unity.shadergraph
-  name: com.unity.shadergraph
-  displayName: Shader Graph
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: The Shader Graph package adds a visual Shader editing tool to Unity.
-    You can use this tool to create Shaders in a visual way instead of writing code.
-    Specific render pipelines can implement specific graph features. Currently, both
-    the High Definition Rendering Pipeline and the Universal Rendering Pipeline support
-    Shader Graph.
-  errors: []
-  versions:
-    all:
-    - 17.3.0
-    compatible:
-    - 17.3.0
-    recommended: 17.3.0
-    deprecated: []
-  dependencies:
-  - name: com.unity.render-pipelines.core
-    version: 17.3.0
-  - name: com.unity.searcher
-    version: 4.9.3
-  resolvedDependencies:
-  - name: com.unity.render-pipelines.core
-    version: 17.3.0
-  - name: com.unity.burst
-    version: 1.8.27
-  - name: com.unity.mathematics
-    version: 1.3.3
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.ugui
-    version: 2.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.collections
-    version: 2.6.2
-  - name: com.unity.test-framework
-    version: 1.6.0
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.6
-  - name: com.unity.test-framework.performance
-    version: 3.2.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.terrain
-    version: 1.0.0
-  - name: com.unity.searcher
-    version: 4.9.4
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 17.3.0
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-    isDiscoverable: 1
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  signature:
-    status: 0
-    reason: 
-    attestation:
-      format: 
-      publishingChannel: 
-      entitlementKeys: []
-      ownerOrgName: 
-      ownerOrgId: 
-      publisherName: 
-    errorCode: 
-  assetStore:
-    productId: 
-  fingerprint: 3e48e962d639f56abc22572e0b70ba873b07bbd9
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 17.3.0
-    minimumUnityVersion: 6000.3
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
-- packageId: com.unity.render-pipelines.universal-config@17.0.3
-  testable: 0
-  isDirectDependency: 0
-  version: 17.0.3
-  source: 2
-  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.render-pipelines.universal-config@8dc1aab4af1d
-  assetPath: Packages/com.unity.render-pipelines.universal-config
-  name: com.unity.render-pipelines.universal-config
-  displayName: Universal Render Pipeline Config
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: Configuration files for the Universal Render Pipeline.
-  errors: []
-  versions:
-    all:
-    - 17.0.3
-    compatible:
-    - 17.0.3
-    recommended: 17.0.3
-    deprecated: []
-  dependencies:
-  - name: com.unity.render-pipelines.core
-    version: 17.0.3
-  resolvedDependencies:
-  - name: com.unity.render-pipelines.core
-    version: 17.3.0
-  - name: com.unity.burst
-    version: 1.8.27
-  - name: com.unity.mathematics
-    version: 1.3.3
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.ugui
-    version: 2.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.collections
-    version: 2.6.2
-  - name: com.unity.test-framework
-    version: 1.6.0
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.6
-  - name: com.unity.test-framework.performance
-    version: 3.2.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.terrain
-    version: 1.0.0
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 17.0.3
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-    isDiscoverable: 0
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  signature:
-    status: 0
-    reason: 
-    attestation:
-      format: 
-      publishingChannel: 
-      entitlementKeys: []
-      ownerOrgName: 
-      ownerOrgId: 
-      publisherName: 
-    errorCode: 
-  assetStore:
-    productId: 
-  fingerprint: 8dc1aab4af1d718781689a36ed5231a35ad1a524
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 17.0.3
-    minimumUnityVersion: 6000.0
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
 - packageId: com.unity.searcher@4.9.4
   testable: 0
   isDirectDependency: 0
@@ -5572,6 +6373,152 @@ m_ResolvedPackages:
     compatibilityLevel: 0
     minimumPackageVersion: 4.9.4
     minimumUnityVersion: 2019.1
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.services.core@1.16.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.16.0
+  source: 1
+  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.services.core@8ba50f624741
+  assetPath: Packages/com.unity.services.core
+  name: com.unity.services.core
+  displayName: Services Core
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: 'This package defines common components used by multiple Game Service
+    packages.
+
+    These are standardized and aim to unify the overall experience
+    of working with Game Services SDK.'
+  errors: []
+  versions:
+    all:
+    - 1.0.1
+    - 1.1.0-pre.7
+    - 1.1.0-pre.8
+    - 1.1.0-pre.9
+    - 1.1.0-pre.10
+    - 1.1.0-pre.11
+    - 1.1.0-pre.41
+    - 1.1.0-pre.69
+    - 1.2.0
+    - 1.3.1
+    - 1.3.2
+    - 1.4.0
+    - 1.4.1
+    - 1.4.2
+    - 1.4.3
+    - 1.5.2
+    - 1.6.0
+    - 1.7.0
+    - 1.7.1
+    - 1.8.1
+    - 1.8.2
+    - 1.9.0
+    - 1.10.1
+    - 1.11.0
+    - 1.12.0
+    - 1.12.1
+    - 1.12.2
+    - 1.12.4
+    - 1.12.5
+    - 1.13.0
+    - 1.14.0
+    - 1.15.1
+    - 1.15.2
+    - 1.16.0
+    - 1.17.0
+    - 1.18.0
+    compatible:
+    - 1.16.0
+    - 1.17.0
+    - 1.18.0
+    recommended: 1.18.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.2
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638985740780220000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.core@1.16/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: 1b63a99d4899b6cf84a11901c8d66ec8369dc3b4
+    path: 
+  unityLifecycle:
+    version: 1.16.0
+    nextVersion: 
+    recommendedVersion: 1.18.0
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 0
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Changed\n* Upgrading base unity version support
+    to 2022.3\n\n### Added\n- Adding environment button in the main toolbar for Unity
+    6.3. Right-click the main toolbar and select `Services/Environment` to activate.\n\n###
+    Fixed\n\n- Fixed an issue where errors would continuously be logged when unlinking
+    a project in the Services tab\n- Fixed an issue where the Popup for Project Linking
+    would close when chooisng the `Open Project Settings` option\n- Fixed compilation
+    issue in 2022.3.10f1 and lower"}'
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 8ba50f62474188022a50a78f721a5d30dfba0c3e
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 1.16.0
+    minimumUnityVersion: 2022.3
   compliance:
     status: 0
     violation:
@@ -5825,117 +6772,6 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.mathematics@1.3.3
-  testable: 0
-  isDirectDependency: 0
-  version: 1.3.3
-  source: 1
-  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.mathematics@19a9377c4ffa
-  assetPath: Packages/com.unity.mathematics
-  name: com.unity.mathematics
-  displayName: Mathematics
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: Unity's C# SIMD math library providing vector types and math functions
-    with a shader like syntax.
-  errors: []
-  versions:
-    all:
-    - 0.0.12-preview.2
-    - 0.0.12-preview.5
-    - 0.0.12-preview.8
-    - 0.0.12-preview.10
-    - 0.0.12-preview.11
-    - 0.0.12-preview.13
-    - 0.0.12-preview.17
-    - 0.0.12-preview.19
-    - 0.0.12-preview.20
-    - 1.0.0-preview.1
-    - 1.0.1
-    - 1.1.0-preview.1
-    - 1.1.0
-    - 1.2.1
-    - 1.2.4
-    - 1.2.5
-    - 1.2.6
-    - 1.3.1
-    - 1.3.2
-    - 1.3.3
-    compatible:
-    - 1.3.3
-    recommended: 1.3.3
-    deprecated: []
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - unity
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638950052122000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.mathematics@1.3/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.com/Unity-Technologies/Unity.Mathematics.git
-    revision: 1695a8503482a3131be78cc26308a93f82c05b04
-    path: 
-  unityLifecycle:
-    version: 1.3.3
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-    isDiscoverable: 1
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"### Fixed\n* Fixed `math.hash` crash when using IL2CPP
-    builds on Arm 32 bit devices.\n* Fixed obsolete method usage warnings for `MatrixDrawer.CanCacheInspectorGUI`
-    and `PrimitiveVectorDrawer.CanCacheInspectorGUI` in UNITY_2023_2_OR_NEWER.\n*
-    Updated minimum editor version to 2021.3"}'
-  signature:
-    status: 1
-    reason: Signature is ok
-    attestation:
-      format: archive
-      publishingChannel: unity
-      entitlementKeys: []
-      ownerOrgName: 
-      ownerOrgId: 
-      publisherName: 
-    errorCode: 
-  assetStore:
-    productId: 
-  fingerprint: 19a9377c4ffa59370edad3e6a34e4445529badde
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 1.3.3
-    minimumUnityVersion: 2021.3
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
 - packageId: com.unity.collections@2.6.2
   testable: 0
   isDirectDependency: 0
@@ -6137,6 +6973,119 @@ m_ResolvedPackages:
     compatibilityLevel: 0
     minimumPackageVersion: 2.6.2
     minimumUnityVersion: 2022.3.20f1
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.nuget.newtonsoft-json@3.2.2
+  testable: 0
+  isDirectDependency: 0
+  version: 3.2.2
+  source: 1
+  resolvedPath: /Users/ryders/Desktop/Project-2/Library/PackageCache/com.unity.nuget.newtonsoft-json@4dfd81071c64
+  assetPath: Packages/com.unity.nuget.newtonsoft-json
+  name: com.unity.nuget.newtonsoft-json
+  displayName: Newtonsoft Json
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: library
+  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
+    synced to version 13.0.2.
+
+
+    This package is used for advanced json serialization
+    and deserialization. Most Unity users will be better suited using the existing
+    json tools built into Unity.
+
+    To avoid assembly clashes, please use this
+    package if you intend to use Newtonsoft Json.'
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.2
+    - 1.0.0-preview.3
+    - 1.0.0-preview.4
+    - 1.0.1-preview.1
+    - 1.1.2
+    - 2.0.0-preview
+    - 2.0.0-preview.1
+    - 2.0.0-preview.2
+    - 2.0.0
+    - 2.0.1-preview.1
+    - 2.0.2
+    - 3.0.1
+    - 3.0.2
+    - 3.1.0
+    - 3.2.0
+    - 3.2.1
+    - 3.2.2
+    compatible:
+    - 3.2.2
+    recommended: 3.2.2
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638971744897690000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
+    revision: d8e49aef8979bef617144382052ec2f479645eaf
+    path: 
+  unityLifecycle:
+    version: 3.2.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 0
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"* Fixed Newtonsoft DLL when compiling with netstandard
+    2.0."}'
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 4dfd81071c6475bb9c114f920bfb4e3fc5e28c6a
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 3.2.2
+    minimumUnityVersion: 2018.4
   compliance:
     status: 0
     violation:
