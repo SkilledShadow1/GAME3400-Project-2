@@ -1,3 +1,51 @@
-/Users/ryders/Desktop/GAME3400-Project-2/.DS_Store filter=lfs diff=lfs merge=lfs -text
-/Users/ryders/Desktop/GAME3400-Project-2/Library/.DS_Store filter=lfs diff=lfs merge=lfs -text
-*.dylib filter=lfs diff=lfs merge=lfs -text
+# Unity YAML assets are text and should diff/merge cleanly
+*.anim   text eol=lf
+*.asset  text eol=lf
+*.controller text eol=lf
+*.mat    text eol=lf
+*.meta   text eol=lf
+*.prefab text eol=lf
+*.unity  text eol=lf
+*.uss    text eol=lf
+*.shader text eol=lf
+
+# C# source
+*.cs     text eol=lf diff=csharp
+
+# Project configuration
+*.json   text eol=lf
+*.txt    text eol=lf
+*.xml    text eol=lf
+*.md     text eol=lf
+*.yml    text eol=lf
+*.yaml   text eol=lf
+.gitignore    text eol=lf
+.gitattributes text eol=lf
+
+# Binary asset formats - never line-ending normalized, never diffed
+*.blend      binary
+*.fbx        binary
+*.png        binary
+*.jpg        binary
+*.jpeg       binary
+*.gif        binary
+*.tga        binary
+*.psd        binary
+*.wav        binary
+*.mp3        binary
+*.ogg        binary
+*.ttf        binary
+*.otf        binary
+*.dll        binary
+*.pdb        binary
+*.so         binary
+*.a          binary
+*.bundle     binary
+
+# 3D model interchange
+*.usdc       binary
+*.usdz       binary
+*.mtlx       binary
+*.obj        text eol=lf
+*.gltf       text eol=lf
+*.glb        binary
