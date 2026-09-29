@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 3269201587413770283}
   - component: {fileID: 366121402685713469}
   - component: {fileID: 1077563103066332579}
+  - component: {fileID: 5940557954189456367}
   m_Layer: 7
   m_Name: Boulder
   m_TagString: Untagged
@@ -33990,7 +33991,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 2551
+  m_VersionIndex: 2554
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -34046,7 +34047,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c22777d6e868e4f2fb421913386b154e, type: 2}
+  - {fileID: 2100000, guid: 457f5ca253e7648a8b85a9da6e8afaf8, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -34143,3 +34144,24 @@ MonoBehaviour:
   moveSpeed: 15
   boulderRadius: 5
   rollSpeed: 15
+--- !u!135 &5940557954189456367
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 12978433092812751}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 2.5
+  m_Center: {x: 0, y: 0, z: 0}

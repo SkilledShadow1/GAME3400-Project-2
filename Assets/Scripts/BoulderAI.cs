@@ -25,6 +25,7 @@ public class BoulderAI : MonoBehaviour
     private float splineLength;
     private float lastRollAngle;
 
+    [SerializeField] private float boulderLifetime = 30f;
     [SerializeField] private float waitTime = 2f;
     [SerializeField] private float moveSpeed;
     [SerializeField] private float boulderRadius;
@@ -34,6 +35,7 @@ public class BoulderAI : MonoBehaviour
 
     private void Start()
     {
+        Destroy(gameObject, boulderLifetime);
         rb = GetComponent<Rigidbody>();
 
         currentState = BoulderState.FallingToPath;
