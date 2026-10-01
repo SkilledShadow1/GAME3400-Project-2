@@ -127,7 +127,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0def6c1d9ee348d2ac009ccc639c618, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SpikeTrap
-  timeSpikeUp: 1
+  timeSpikeUp: 2
   timeSpikeDown: 3
 --- !u!1 &2754880258326542960
 GameObject:
